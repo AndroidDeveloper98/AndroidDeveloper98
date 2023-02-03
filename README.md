@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Ojha</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androiddeveloper98&label=Profile%20views&color=0e75b6&style=flat" alt="andrioddeveloper98" /> </p>
 
