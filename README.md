@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sumit Ojha</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=androiddeveloper98&label=Profile%20views&color=0e75b6&style=flat" alt="sumitdev98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=androiddeveloper98&label=Profile%20views&color=0e75b6&style=flat" alt="andrioddeveloper98" /> </p>
 
-- 🔭 I’m currently working on **Android.**
+- 🔭 I’m currently working on **Android App Developement.**
 
-- 🌱 I’m currently learning **Dagger Hilt.**
+- 🌱 I’m currently learning **Room Database.**
 
-- 💬 Ask me about **Android.**
+- 💬 Ask me about **Android App Developemet**
 
-- 📫 How to reach me **Copscode@gmail.com**
+- 📫 How to reach me **Sumitojha987@gmail.com**
 
 <p align="left">
 </p>
