@@ -1,5 +1,5 @@
 <h1 align="center">Hello EveryOne👋, I'm Sumit.</h1>
-<h3 align="center">To dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</h3>
+<h3 align="center">To dedicated to achieving demanding development and producing impeccable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androiddeveloper98&label=Profile%20views&color=0e75b6&style=flat" alt="andrioddeveloper98" /> </p>
 
